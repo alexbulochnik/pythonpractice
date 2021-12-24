@@ -1,1 +1,2 @@
 # pythonpractice
+python is cool
