@@ -1,3 +1,4 @@
 # pythonpractice
 python is cool
-commit messages
+commit messages 
+Practice makes perfect
